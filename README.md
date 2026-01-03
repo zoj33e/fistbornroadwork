@@ -1,4 +1,4 @@
-# Fistborn Semi-Automatic Roadwork System
+# Rosework, Fistborn Semi-Automatic Roadwork System
 
 A computer vision-based auto roadwork system for Fistborn. This project uses real-time screen capture and template matching to automatically run roadwork.
 
